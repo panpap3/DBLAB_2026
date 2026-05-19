@@ -57,7 +57,7 @@ This project is ideal for hospital administrators, medical informaticians, and a
 
 1. **Clone the repository:**
 git clone <repository_url>
-cd DBLAB-2026
+cd DBLAB_2026
 
 2. **Create and activate virtual environment:**
 
